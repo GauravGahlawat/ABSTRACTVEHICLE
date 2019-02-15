@@ -58,7 +58,7 @@ class VehicleEx
 	public static void main(String [] args)
 	{
  
-		Car c=new Car("Four vehiler","Audi","Soupe","R8");
+		Car c=new Car("Four wheeler","Audi","Soupe","R8");
 		c.show();
 		c.vendorshow();
 		c.typeShow();
